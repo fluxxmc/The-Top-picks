@@ -1,0 +1,103 @@
+body {
+    background-image: url("https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/06/Award-cup-getty-image.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #030936;
+    text-align: center;
+}
+
+.picks {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: black;
+    text-shadow: 2px 2px 5px #c0ff38;
+    font-size: 70px;
+   
+}
+
+img {
+    width: 55px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+}
+.movie {
+    color: #ffef40;
+    font-size: 65px;
+    font-family: 'Notable', sans-serif;
+    text-shadow: 2px 2px 5px #c2cc02;
+}
+
+.itsv {
+    color: #a8edeb;
+    font-size: 30px;
+    font-family: 'Notable', sans-serif;
+    text-shadow: 2px 2px 5px #689492;
+}
+
+.game {
+    color: #0ffa46; 
+    font-size: 65px;
+    font-family: 'Orbitron', sans-serif;   
+    text-shadow: 2px 2px 5px #34ed13;
+}
+
+.apex {
+    color: #ff4f4f;
+    font-size: 30px;
+    font-family: 'Rubik Mono One', sans-serif; 
+    text-shadow: 2px 2px 5px #b32727;
+}
+
+.gamer {
+     color: #7e16f5;
+     font-size: 65px;
+     font-family: 'Turret Road', cursive;
+     text-shadow: 2px 2px 5px #5414b5;
+     
+}
+
+.shroud {
+    color: #a024ff;  
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 5px #7c2bba;
+}
+
+.artist {
+    font-size: 65px;
+    font-family: 'Architects Daughter', cursive;
+    text-shadow: 2px 2px 5px #43a7b5;
+}
+
+.ross {
+    color: #2127c4;   
+}
+
+.bob {
+    color: #e65e70;
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px 5px #bf4555;
+}
+
+.band {
+    color:#00ff7b;
+    font-size: 65px;
+    font-family: 'Righteous', cursive;
+    text-shadow: 2px 2px 5px #14c469;
+}
+
+.blur {
+    color: white;
+    font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+    text-shadow: 2px 2px 5px #e3dede;
+}
+
+
+
+
+
